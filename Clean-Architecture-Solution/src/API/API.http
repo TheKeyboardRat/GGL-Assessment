@@ -1,0 +1,6 @@
+@API_HostAddress = http://localhost:7217
+
+GET {{API_HostAddress}}/api/games/getgame/10
+Accept: application/json
+
+###
